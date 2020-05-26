@@ -1,5 +1,5 @@
 PKG_NAME := padatious
-URL = https://files.pythonhosted.org/packages/33/c1/a54ac3f8fe5fac7fc9537beb90576673a660f3da9147e1317adf6e4c3cfb/padatious-0.4.7.tar.gz
+URL = https://files.pythonhosted.org/packages/d0/e7/70a6eb34b7e67fef5b2645df2ee1f807db2b5a345e4e6adfb2660a56425b/padatious-0.4.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
