@@ -4,7 +4,7 @@
 #
 Name     : padatious
 Version  : 0.4.8
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/d0/e7/70a6eb34b7e67fef5b2645df2ee1f807db2b5a345e4e6adfb2660a56425b/padatious-0.4.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d0/e7/70a6eb34b7e67fef5b2645df2ee1f807db2b5a345e4e6adfb2660a56425b/padatious-0.4.8.tar.gz
 Summary  : A neural network intent parser
